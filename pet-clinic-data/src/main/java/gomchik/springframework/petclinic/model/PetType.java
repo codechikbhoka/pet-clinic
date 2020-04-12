@@ -3,7 +3,7 @@ package gomchik.springframework.petclinic.model;
 /**
  * @author vbbharga on 12/04/20
  */
-public class PetType {
+public class PetType extends BaseEntity{
 
     private String name;
 
